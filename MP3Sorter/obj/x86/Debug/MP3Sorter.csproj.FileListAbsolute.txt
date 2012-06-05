@@ -1,0 +1,9 @@
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\bin\Debug\MP3Sorter.exe
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\bin\Debug\MP3Sorter.pdb
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\obj\x86\Debug\MP3Sorter.MainWindow.resources
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\obj\x86\Debug\MP3Sorter.Properties.Resources.resources
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\obj\x86\Debug\MP3Sorter.exe
+C:\Users\ahmed.reza\documents\visual studio 2010\Projects\MP3Sorter\MP3Sorter\obj\x86\Debug\MP3Sorter.pdb
